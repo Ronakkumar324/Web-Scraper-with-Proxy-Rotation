@@ -17,7 +17,7 @@
 
 This facilitates smarter, data-driven decision-making.
 
-**🌍 Impact:** This project lays a strong foundation for data-driven decision-making in e-commerce, benefiting both businesses and consumers.
+**📊 Impact:** This project lays a strong foundation for data-driven decision-making in e-commerce, benefiting both businesses and consumers.
 
 1. 🏷️ Helps businesses optimize pricing strategies
 
@@ -26,3 +26,31 @@ This facilitates smarter, data-driven decision-making.
 3. 🛍️ Empowers consumers to make informed purchase decisions
 
 4. 🤖 Future upgrades include ML-based price prediction and sentiment analysis to boost analytical capabilities
+
+
+**🔮 Future Enhancements**
+1. Integrate ML models for price prediction
+
+2. Perform sentiment analysis on customer reviews
+
+3. Add a dashboard for visualizing scraped data
+
+4. Enable cloud storage or API-based scraping
+
+**🧪 Testing**
+1. Test proxy rotation with dummy endpoints
+
+2. Validate HTML selectors with static Amazon product pages
+
+3. Compare outputs with manually collected data
+
+**🤝 Contributing**
+Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
+
+
+**🙌 Acknowledgments**
+1. Scrapy Documentation
+
+2. Selenium Docs
+
+3. Amazon Terms of Service
