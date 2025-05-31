@@ -57,6 +57,6 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 **🙌 Acknowledgments**
 1. [Scrapy Documentation](https://docs.scrapy.org/en/latest/)
 
-2. Selenium Docs
+2. [Selenium Docs](https://www.selenium.dev/documentation/)
 
-3. Amazon Terms of Service
+3. [Amazon Terms of Service](https://www.amazon.com/gp/help/customer/display.html?nodeId=508088)
